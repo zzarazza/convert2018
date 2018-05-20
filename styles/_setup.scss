@@ -1,0 +1,22 @@
+$cv-body-font-size: 16px;
+$cv-body-font-family : ("Open Sans", Arial, sans-serif);
+$cv-body-line-height : 1.75;
+
+$cv-heading-font-size : (
+	"h1" 		: 90px,
+	"h1.small"	: 60px,
+	"h2" 		: 50px,
+	"h2.small"	: 35px,
+	"h3" 		: 30px,
+	"h4" 		: 22px
+);
+
+$cv-row-max-width : 1450px;
+
+$cv-header-bcolor : #13141e;
+$cv-header-color : white;
+
+$cv-primary-color : #892bb0;
+$cv-secondary-color : darken(white,20%);
+
+$cv-border-color : darken(white,20%);
